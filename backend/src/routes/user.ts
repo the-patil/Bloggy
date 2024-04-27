@@ -1,4 +1,4 @@
-import { signinInput, signupInput } from "@100xdevs/medium-common";
+import { signinInput, signupInput } from "@code1/medium-common";
 import { PrismaClient } from '@prisma/client/edge';
 import { withAccelerate } from '@prisma/extension-accelerate';
 import { Hono } from "hono";
