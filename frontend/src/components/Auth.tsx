@@ -17,6 +17,7 @@ export const Auth = ({ type }: { type: "signup" | "signin" }) => {
     </div>
 }
 
+console.log("enter you number" + input)
 interface LabelledInputType {
     label: string;
     placeholder: string;
